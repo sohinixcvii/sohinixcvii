@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sohini Dutta
+- 👀 I’m interested in Cosmology and problem solving
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on practical problem solving especially in science. 
