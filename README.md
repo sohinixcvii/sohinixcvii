@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sohini Dutta
 - 👀 I’m interested in Cosmology and problem solving
-- 🌱 I’m currently learning Python
+- 🌱 I’m proficient in Python and C/C++. Currently learning Javascript.
 - 💞️ I’m looking to collaborate on practical problem solving especially in science. 
