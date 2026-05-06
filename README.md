@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sohini Dutta
 - 👀 I’m interested in Cosmology and problem solving
-- 🌱 I’m proficient in Python and C/C++. I also know a bit of SQL and PySpark.
+- 🌱 I’m proficient in Python and C/C++. I also know a bit of HTML, CSS, SQL and PySpark.
 - 💞️ I’m looking to collaborate on practical problem solving especially in science. 
