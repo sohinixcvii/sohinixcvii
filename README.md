@@ -63,14 +63,6 @@ Open to working on
 [Website](www.sohinidutta.com) · [LinkedIn](www.linkedin.com/in/sohini-dutta-915022335)
 ---
 
-### Metrics
-
-![Stats](https://github-readme-stats.vercel.app/api?username=sohinixcvii&show_icons=true&hide_border=true&bg_color=00000000&title_color=1f4f4f&icon_color=1f4f4f&text_color=444)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohinixcvii&layout=compact&hide_border=true&bg_color=00000000&title_color=1f4f4f&text_color=444)
-
----
-
 ###
 
 *"Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all." -Vincent van Gogh*
