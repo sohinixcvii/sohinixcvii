@@ -1,11 +1,9 @@
 # **Sohini Dutta**
-
 *Cosmology · Scientific Computing · Problem Solving*
 
 ---
 
 ### About
-
 I work on problems in **cosmology and computational science**, with a focus on modelling complex systems and extracting meaning from confusing data.
 
 My interests lie in the intersection of
@@ -14,7 +12,6 @@ My interests lie in the intersection of
 ---
 
 ### Work
-
 * Cosmology modelling
 * Statistics driven analysis
 * Data + inference pipelines
@@ -22,21 +19,19 @@ My interests lie in the intersection of
 ---
 
 ### Tools
-
 **Languages**
-![Python](https://img.shields.io/badge/Python-1f4f4f?style=flat-square\&logo=python\&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-1f4f4f?style=flat-square\&logo=c%2B%2B\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-1f4f4f?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-1f4f4f?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 **Familiar**
-![HTML](https://img.shields.io/badge/HTML-7a8c8c?style=flat-square\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-7a8c8c?style=flat-square\&logo=css3\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-7a8c8c?style=flat-square\&logo=postgresql\&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-7a8c8c?style=flat-square\&logo=apachespark\&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-7a8c8c?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-7a8c8c?style=flat-square&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-7a8c8c?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-7a8c8c?style=flat-square&logo=apachespark&logoColor=white)
 
 ---
 
 ### Selected Work
-
 — *Bayesian power spectrum estimation with modelling of systematic effects in delay-fringe rate space*
 Gibbs-sampling power spectrum estimator for the EoR (Epoch of Reionization)
 signal in radio interferometric visibilities. Jointly samples the EoR signal,
@@ -49,9 +44,7 @@ Forecasting the detectability of the 21 cm × galaxy cross-power spectrum during
 ---
 
 ### Collaboration
-
 Open to working on
-
 * scientific problem solving
 * data-intensive modelling
 * interdisciplinary research
@@ -59,10 +52,8 @@ Open to working on
 ---
 
 ### Presence
+[Website](https://www.sohinidutta.com) · [LinkedIn](https://www.linkedin.com/in/sohini-dutta-915022335)
 
-[Website](www.sohinidutta.com) · [LinkedIn](www.linkedin.com/in/sohini-dutta-915022335)
 ---
-
-###
 
 *"Be clearly aware of the stars and infinity on high. Then life seems almost enchanted after all." -Vincent van Gogh*
