@@ -35,7 +35,7 @@ My interests lie in the intersection of
 Gibbs-sampling power spectrum estimator for the EoR (Epoch of Reionization)
 signal in radio interferometric visibilities. Jointly samples the EoR signal,
 foreground amplitudes, multiplicative antenna gain systematics, and the EoR
-delay power spectrum — all within a single self-consistent Bayesian framework.
+delay power spectrum — all within a single self-consistent Bayesian framework.[arXiv:2604.26885](https://arxiv.org/abs/2604.26885)
 
 — *21 cm – Galaxy Cross-Correlation: Uncertainty Budget*
 Forecasting the detectability of the 21 cm × galaxy cross-power spectrum during the Epoch of Reionization, following the framework of [La Plante et al. (2023)](https://arxiv.org/abs/2205.09770).
