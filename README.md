@@ -54,7 +54,7 @@ Open to working on
 ---
 
 ### Presence
-[Website](https://www.sohinidutta.com) · [LinkedIn](https://www.linkedin.com/in/sohini-dutta-915022335)
+[Website](https://www.sohinidutta.com) · [LinkedIn](https://www.linkedin.com/in/sohinidutta1297)
 
 ---
 
