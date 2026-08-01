@@ -4,11 +4,10 @@
 ---
 
 ### About
-I work on problems in **cosmology and computational science**, with a focus on modelling complex systems and extracting meaning from confusing data.
+I work on problems in **cosmology and computational science**, with a focus on modelling complex systems, quantifying uncertainty, and extracting meaning from confusing data.
 
 My interests lie in the intersection of
 **cosmology · bayesian statistics · artificial intelligence · machine learning**
-
 ---
 
 ### Work
@@ -40,6 +39,9 @@ delay power spectrum — all within a single self-consistent Bayesian framework.
 
 — *21 cm – Galaxy Cross-Correlation: Uncertainty Budget*
 Forecasting the detectability of the 21 cm × galaxy cross-power spectrum during the Epoch of Reionization, following the framework of [La Plante et al. (2023)](https://arxiv.org/abs/2205.09770).
+
+— *From ANN to BNN: Inferring reionization parameters using uncertainty-aware emulators of 21-cm summaries* (co-author)
+Replaces point-value ANN emulators with Bayesian neural networks that produce full posterior uncertainty on their predictions, so that emulator uncertainty propagates correctly through the downstream Bayesian inference pipeline. [arXiv:2508.13261](https://arxiv.org/abs/2508.13261)
 
 ---
 
